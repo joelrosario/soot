@@ -1,0 +1,218 @@
+
+hr {
+  border: 0px;
+  border-top: 1px dashed #000000;
+  height: 1px;
+}
+
+body {
+  font-family: Verdana, Arial, Georgia;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+}
+
+div.slogan {
+  color: #838383;
+  font-size: 20px;
+
+  margin: 0px;
+  padding: 0px;
+
+  margin-left: 10px;
+}
+
+div.container {
+  margin: 0px;
+  padding: 0px;
+
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.left_sidebar {
+  float: left;
+  width: 20%;
+  margin: 0px;
+  padding: 0px;
+}
+
+div.right_sidebar {
+  float: left;
+  width: 22%;
+  margin: 0px;
+  padding: 0px;
+}
+
+div.right_sidebar div.block div.content ul li {
+  font-size: 14px;
+}
+
+div.center_content {
+  color: #545454;
+
+  float: left;
+  width: 77%;
+
+  margin: 0px;
+  padding: 0px;
+}
+
+div.inner_center {
+  margin: 0px;
+  padding: 0px;
+
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+a {
+  color: #3E3E3E;
+  text-decoration: none;
+  border-bottom: 1px dotted #000000;
+}
+
+a.active, li a.active, a:hover, .links a.active:hover, a.active:hover {
+  text-decoration: none;
+  color: #E8E8E8;
+  background-color: #333333;
+}
+
+legend a:hover {
+  color: #3E3E3E;
+  background-color: #333333;
+}
+
+div.content {
+  color: #545454;
+  margin: 0px;
+  padding: 0px;
+  margin-bottom: 30px;
+}
+
+div.content p, div.content blockquote {
+  font-size: 15px;
+  line-height: 23px;
+  margin: 0px;
+  padding: 0px;
+
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+div.content ol li, div.content blockquote ul {
+  font-size: 15px;
+  line-height: 23px;
+  margin: 0px;
+  padding: 0px;
+}
+
+div.content blockquote {
+  margin-left: 20px;
+  padding: 5px;
+  background-color: #EFEFEF;
+}
+
+div.content h2, div.inner_center h2 {
+  font-size: 20px;
+  margin: 0px;
+  padding: 0px;
+}
+
+div.content h3, div.inner_center h3 {
+  font-size: 16px;
+  margin: 0px;
+  padding: 0px;
+}
+
+div.content div.credits, div.content div.terms {
+  color: #545454;
+  font-size: 12px;
+  margin-left: 15px;
+  margin-top: 5px;
+}
+
+div.content div.credits {
+  margin-top: 12px;
+  margin-bottom: 7px;
+}
+
+div.content div.terms {
+  margin-bottom: 10px;
+}
+
+div.content div.terms li {
+  margin: 0px;
+  padding: 0px;
+  margin-right: 5px;
+}
+
+div.content .links {
+  margin: 0px;
+  padding: 0px;
+
+  margin-top: 10px;
+}
+
+div.content .links a.active {
+  font-weight: bold;
+}
+
+div.block {
+  color: #545454;
+}
+
+div.block h2 {
+  font-size: 18px;
+  font-weight: normal;
+  margin: 0px;
+  padding: 0px;
+
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+div.block ul li {
+  list-style-type: square;
+  margin-top: 5px;
+}
+
+ul.links {
+  color: #545454;
+}
+
+ul.links a.active, ul.menu li.expanded {
+  font-weight: bold;
+}
+
+ul.menu li.leaf {
+  font-weight: normal;
+}
+
+div.messages {
+  font-weight: bold;
+  margin: 0;
+  padding: 20px 20px 20px 20px;
+  margin-bottom: 10px;
+
+  color: #E8E8E8;
+  background-color: #333333;
+}
+
+div.messages a {
+  font-weight: bold;
+
+  color: #E8E8E8;
+  background-color: #333333;
+  border-bottom: 1px dotted #E8E8E8
+}
+
+div.item-list ul.pager li {
+  float: left;
+  margin: 0px;
+  padding: 0px;
+  margin-right: 10px;
+}
