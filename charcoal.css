@@ -59,6 +59,8 @@ div.center_content {
 
   margin: 0px;
   padding: 0px;
+
+  line-height: 23px;
 }
 
 div.inner_center {
@@ -103,6 +105,10 @@ div.content p, div.content blockquote {
   margin-bottom: 15px;
 }
 
+div.content ul li {
+  list-style: square;
+}
+
 div.content ol li, div.content blockquote ul {
   font-size: 15px;
   line-height: 23px;
@@ -120,6 +126,7 @@ div.content h2, div.inner_center h2 {
   font-size: 20px;
   margin: 0px;
   padding: 0px;
+  line-height: 24px;
 }
 
 div.content h3, div.inner_center h3 {
@@ -132,7 +139,7 @@ div.content div.credits, div.content div.terms {
   color: #545454;
   font-size: 12px;
   margin-left: 15px;
-  margin-top: 5px;
+  line-height: 13px;
 }
 
 div.content div.credits {
