@@ -4,6 +4,7 @@ version = 0.1
 core = 6.x
 engine = phptemplate
 stylesheets[all][] = charcoal.css
+
 features[] = logo
 features[] = name
 features[] = slogan

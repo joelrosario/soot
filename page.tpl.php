@@ -6,7 +6,7 @@
 <?php echo str_replace("rss.xml", "feed", $head); ?>
 <?php echo $styles ?>
 <?php echo $scripts ?>
-
+<?php include(dirname(__FILE__) . "/html_header.php") ?>
 </head>
 
 <body>
